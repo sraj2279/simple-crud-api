@@ -2,8 +2,6 @@
 
 This is the documentation for the Simple RESTful CRUD API. It demonstrates basic operations (Create, Read, Update, and Delete) on a resource in a database, following REST principles. The API uses HTTP methods (GET, POST, PUT, DELETE) to perform these operations and follows standard conventions for handling resources over HTTP.
 
----
-
 ## Endpoints
 
 ### POST /tasks 
