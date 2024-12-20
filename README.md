@@ -79,7 +79,3 @@ This is the documentation for the Simple RESTful CRUD API. It demonstrates basic
 | 400 | application/json | { "message": "Bad syntax. 'id' must be integer." } |
 | 404 | application/json | { "message": "Task not found." } |
 | 500 | application/json | { "message": "Internal server error." } |
-
-## Notes
-- Ensures that the database is properly initialized before using the API.
-- Handles errors appropriately to avoid exposing sensitive server details.
